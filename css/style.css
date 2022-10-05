@@ -1,0 +1,27 @@
+html{
+   background: radial-gradient(10);
+   background-color: rgba(22, 22, 22, 1);
+   /*background-image: url("Imagens/background.jpg");*/
+   background-repeat: no-repeat;
+   background-blend-mode: darken;
+   background-size: cover;
+
+
+}
+.main-logo{
+   color: rgba(197, 194, 5, 0.8);
+   transition: 0.15s;
+   position: absolute;
+   
+}
+a{
+ color: inherit; 
+ text-decoration: none;
+}
+a:hover{
+   color: rgb(255, 251, 0);
+}
+
+h2{
+   color: rgba(257, 257, 257, 1);
+}
