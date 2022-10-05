@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
 html{
    background: radial-gradient(10);
    background-color: rgba(22, 22, 22, 1);
@@ -9,6 +13,8 @@ html{
 
 }
 .main-logo{
+   font-family: Roboto;
+   font-size: 1.08em;
    color: rgba(197, 194, 5, 0.8);
    transition: 0.15s;
    position: absolute;
