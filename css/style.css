@@ -13,11 +13,19 @@ html{
 
 }
 .main-logo{
+   margin: 0;
+   border: 0;
    font-family: Roboto;
    font-size: 1.08em;
    color: rgba(197, 194, 5, 0.8);
    transition: 0.15s;
-   position: absolute;
+   display: block;
+  
+   margin-top: 25%;
+   margin-right: auto;
+   margin-left: auto;
+   margin-bottom: 20%;
+   text-align: center;
    
 }
 a{
